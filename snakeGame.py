@@ -1,3 +1,9 @@
+"""
+    This Python Code was written by Metehan GENCER who is an Embedded System Engineer and Expert
+    Engineer: Metehan GENCER
+    Date    : 2024 - 08 - 18 
+"""
+
 import tkinter
 import random
 
